@@ -1,0 +1,110 @@
+/* device detection */
+
+
+/* all iOS */
+@media
+only screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2),
+only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5),
+screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 1),
+screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) {
+
+
+}
+
+/* all Android */
+@media
+screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2),
+screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3),
+screen and (device-width: 320px) and (device-height: 534px) and (-webkit-device-pixel-ratio: 1.5),
+screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 3),
+screen and (device-width: 384px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 2),
+screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) {
+
+
+}
+
+
+
+/* iPhone 3Gs */
+@media
+screen and (device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1) {
+
+}
+
+
+/* iPhone 5 */
+@media
+only screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) {
+
+}
+
+
+/* iPhone 4 */
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+
+}
+
+
+/* iPad 1, 2, Mini */
+@media
+screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 1) {
+
+}
+
+
+/* iPad 3, 4 */
+@media
+screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) {
+
+}
+
+
+/* HTC One, Samsung Galaxy S5 */
+@media
+screen and (device-width: 360px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+
+}
+
+
+/* Samsung Galaxy S4 */
+@media
+screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 3) {
+
+}
+
+
+/* Samsung Galaxy S3 */
+@media
+screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+
+}
+
+
+/* Samsung Galaxy S2 */
+@media
+screen
+and (device-width: 320px) and (device-height: 534px) and (-webkit-device-pixel-ratio: 1.5) {
+
+}
+
+
+/* LG Nexus 5 */
+@media
+screen and (device-width: 360px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 3) {
+
+}
+
+/* LG Nexus 4 */ 
+@media
+screen and (device-width: 384px) and (device-height: 592px) and (-webkit-device-pixel-ratio: 2) {
+
+}
+
+
+/* Asus Nexus 7 */
+@media
+screen and (device-width: 601px) and (device-height: 906px) and (-webkit-min-device-pixel-ratio: 1.331) and (-webkit-max-device-pixel-ratio: 1.332) {
+
+}
